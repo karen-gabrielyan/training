@@ -5,3 +5,7 @@ Here goes an example of a source code committed to GitHub.
 We will modify few lines of text in this documet later to exercise code review.
 
 That's it for now.
+
+-------------------
+
+New line.
